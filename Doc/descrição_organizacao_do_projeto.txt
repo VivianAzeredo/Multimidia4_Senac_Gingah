@@ -1,4 +1,4 @@
-Um site para a divulgação de artistas nacionais.
 Espaço para postar atualizações (como um blog)
 Galeria de Vídeos e Fotos
-Player de demos.
+Player de demos
+Espaço com perfil de artistas
